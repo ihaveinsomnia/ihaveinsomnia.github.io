@@ -1,5 +1,5 @@
 body {
-background-color: blue;
+background-color: yellow;
 }
 
 p {
@@ -8,9 +8,5 @@ p {
 
 h1 { 
   text-align: center;
-}
-
-img {
-  position: relative;
 }
 
